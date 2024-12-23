@@ -1,0 +1,1 @@
+# HikayeEmoji.py
